@@ -2,8 +2,15 @@
 background-color: Silver;
 }
 h1{
-color: Red
+    color: Red
 }
 h2{
-    color:
+    color: darkblue;
+}
+h3 {
+    color: aqua;
+    font: bold;
+}
+body {
+    background-color: white;
 }
